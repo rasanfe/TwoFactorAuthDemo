@@ -1,0 +1,11 @@
+﻿global type systemtime from structure
+	integer		wYear
+	integer		wMonth
+	integer		wDayofWeek
+	integer		wDay
+	integer		wHour
+	integer		wMinute
+	integer		wSecond
+	integer		wMilliseconds
+end type
+

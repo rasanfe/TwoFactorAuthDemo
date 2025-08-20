@@ -1,0 +1,20 @@
+﻿EXE:GoogleAuthenticatorDemo64.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 25.0.0.3711
+CMP:0,0,0,3,0,0,1
+COM:RSRSYSTEM
+DES:RSRSYSTEM
+CPY:Ramón San Félix Ramón
+PRD:PowerBuilder Enterprise Series
+PVS:25.0.3711.1
+PVN:25,0,3711,1
+FVS:25.0.3711.1
+FVN:25,0,3711,1
+MAN:0,asInvoker,0
+PBD:twofactorauth.pbl,,1
+PBD:dotnet.pbl,,1
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\TwoFactorAuthDemo\twofactorauth.pbl,twofactorauth,a
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\TwoFactorAuthDemo\twofactorauth.pbl,w_main,w
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\TwoFactorAuthDemo\twofactorauth.pbl,systemtime,s
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\TwoFactorAuthDemo\twofactorauth.pbl,u_google_authenticator,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\TwoFactorAuthDemo\dotnet.pbl,nvo_zxingnet8,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\TwoFactorAuthDemo\twofactorauth.pbl,nvo_barcode,u
+OBJ:C:\proyecto pw2025\Blog\PowerBuilder\TwoFactorAuthDemo\twofactorauth.pbl,time_zone_information,s

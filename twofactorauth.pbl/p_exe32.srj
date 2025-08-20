@@ -1,0 +1,21 @@
+﻿EXE:GoogleAuthenticatorDemo32.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 25.0.0.3711
+CMP:0,0,0,2,0,0,1
+COM:RSRSYSTEM
+DES:RSRSYSTEM
+CPY:Ramón San Félix Ramón
+PRD:PowerBuilder Enterprise Series
+PVS:25.0.3711.1
+PVN:25,0,3711,1
+FVS:25.0.3711.1
+FVN:25,0,3711,1
+MAN:0,asInvoker,0
+PBD:twofactorauth.pbl,,1
+PBD:dotnet.pbl,,1
+OBJ:C:\proyecto pw2025\Aprender\Appeon\twofactorauthdemo\twofactorauth.pbl,time_zone_information,s
+OBJ:C:\proyecto pw2025\Aprender\Appeon\twofactorauthdemo\twofactorauth.pbl,twofactorauth,a
+OBJ:C:\proyecto pw2025\Aprender\Appeon\twofactorauthdemo\twofactorauth.pbl,systemtime,s
+OBJ:C:\proyecto pw2025\Aprender\Appeon\twofactorauthdemo\twofactorauth.pbl,w_main,w
+OBJ:C:\proyecto pw2025\Aprender\Appeon\twofactorauthdemo\twofactorauth.pbl,u_google_authenticator,u
+OBJ:C:\proyecto pw2025\Aprender\Appeon\twofactorauthdemo\twofactorauth.pbl,gf_generar_qr,f
+OBJ:C:\proyecto pw2025\Aprender\Appeon\twofactorauthdemo\twofactorauth.pbl,gf_file_read,f
+OBJ:C:\proyecto pw2025\Aprender\Appeon\twofactorauthdemo\twofactorauth.pbl,gf_gettempfilename,f

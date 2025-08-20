@@ -1,0 +1,10 @@
+﻿global type time_zone_information from structure
+	long		bias
+	long		standardname[31]
+	systemtime		standarddate
+	long		standardbias
+	long		daylightname[31]
+	systemtime		daylighttime
+	long		daylightbias
+end type
+
